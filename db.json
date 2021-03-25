@@ -1,0 +1,25 @@
+{
+  "login": [
+    {
+      "name": "piyush",
+      "password": "123"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "name": "Hindi",
+      "author": "Piyush"
+    },
+    {
+      "id": "2",
+      "name": "English",
+      "author": "Raj"
+    },
+    {
+      "id": "3",
+      "name": "Account",
+      "author": "Prince"
+    }
+  ]
+}
